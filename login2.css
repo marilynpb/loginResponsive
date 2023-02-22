@@ -1,0 +1,14 @@
+body{
+    background: #53b5ea;
+    background: linear-gradient(to right, #e1ebf2,  #53b5ea);
+}
+
+.bg{
+    background-image: url('./img/angelina-8gEXqWez5mM-unsplash.jpg');
+    background-position: center;
+    background-size: 100%;
+}
+
+a{
+    text-decoration: none;
+}
